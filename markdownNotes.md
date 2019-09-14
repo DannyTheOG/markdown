@@ -24,10 +24,10 @@
 
 ## markdown editors
 
-* [x] markPad
-* [x] harooPad
-* [x] markdownPad 2
-* [x] text editor extensions(vscode, atom, etc)
-* [x] typora
+* markPad
+* harooPad
+* markdownPad 2
+* text editor extensions(vscode, atom, etc)
+* typora
 
 
